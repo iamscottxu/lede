@@ -7,8 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #  
 
-name: OpenWrt-CI
-
+name: main
 on:
   schedule:
     - cron: 0 20 * * *
